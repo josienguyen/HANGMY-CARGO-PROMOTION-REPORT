@@ -1,5 +1,5 @@
-# HANGMY CARGO PROMOTION REPORT
-The project will measure the success or failure of a short promotion from May 25 to June 14, 2022. 
+# HANGMY CARGO PROMOTION REPORT - BY EXCEL
+The project will measure the success or failure of a short promotion from May 25 to June 14, 2022.
 ![Report 1](https://user-images.githubusercontent.com/104743841/176087891-9058ef3b-56ce-4bab-b40f-98d64ebadd5d.jpg)
 ![Report 2](https://user-images.githubusercontent.com/104743841/176087893-d0b45835-ec59-4037-8df9-a8223b12c950.jpg)
 ![Report 3](https://user-images.githubusercontent.com/104743841/176087894-749f9b1a-7aa0-4203-a9d8-473b90e07ab3.jpg)
